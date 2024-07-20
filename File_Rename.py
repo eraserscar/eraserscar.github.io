@@ -46,6 +46,6 @@ def File_search(dir):
 
 
 
-# File_search('C:/Users/jino0/Cloudike/현대투어존동의자료')
+# File_search('파일경로')
 
 File_search('z:/')
